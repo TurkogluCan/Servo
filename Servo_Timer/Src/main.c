@@ -128,12 +128,9 @@ int main(void)
 //
 //	  htim2.Instance->CCR1 = 50;
 //	  HAL_Delay(1000);
-//
-//	  htim2.Instance->CCR1 = 75;
-//	  HAL_Delay(1000);
-//
-//	  htim2.Instance->CCR1 = 100;
-//	  HAL_Delay(1000);
+
+
+// denemememmmememe
 
 
 
